@@ -1,4 +1,4 @@
-# IIIT-L Placement Portal
+# IIT(ISM) SCPT Placement Portal
 
 Clone the project and create a .env file in the root folder.
 
